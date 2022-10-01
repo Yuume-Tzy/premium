@@ -15,7 +15,7 @@
             
 <h3 align="left">Cara Menjalankan Script :</h3>
        
-       $ git clone https://github.com/RIDWAN-XD778/facebook
+       $ git clone https://github.com/Yuume-Tzy/Prem
        $ cd prem_enc1.py
        $ git pull
        $ python prem_enc1.py
