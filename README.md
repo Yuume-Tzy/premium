@@ -15,7 +15,7 @@
             
 <h3 align="left">Cara Menjalankan Script :</h3>
        
-       $ git clone https://github.com/Yuume-Tzy/Prem
+       $ git clone https://github.com/Yuume-Tzy/premium
        $ cd prem_enc1.py
        $ git pull
        $ python prem_enc1.py
